@@ -1,6 +1,6 @@
   
-# CREATE SCHEMA IF NOT EXISTS `org`;
-# USE `org`;
+CREATE SCHEMA IF NOT EXISTS `org`;
+USE `org`;
   
 # Create users table
 DROP TABLE IF EXISTS users;
